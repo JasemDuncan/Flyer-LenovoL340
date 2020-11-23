@@ -2,7 +2,7 @@
 > This is flyer for Notebook Lenovo IdeaPad L340-15A 15.6" HD TN AMD Ryzen 5 3500U 2.10GHz, 8GB DDR4, 1TB SATA, created for a computer store.
 
 
-![screenshot](Flyer1920x1080.png)
+![screenshot](Flyer_1920x1080.png)
 
 ## Built With
 
@@ -14,7 +14,7 @@
 
 - Github: [JasemDuncan](https://github.com/JasemDuncan)
 - Linkedin: [Jasem-Duncan-Valencia](https://www.linkedin.com/in/jasem-duncan-valencia/)
-- Mail: [Jasem Valencia](jasemvalencia@gmail.com)
+- E-mail: [Jasem Valencia](jasemvalencia@gmail.com)
 
 
 ## 🤝 Contributing
